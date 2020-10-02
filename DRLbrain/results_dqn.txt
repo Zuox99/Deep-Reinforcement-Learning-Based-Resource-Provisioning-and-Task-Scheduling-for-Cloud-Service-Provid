@@ -1,0 +1,10 @@
+episode 0score 4924.0 avg score 4924.0 epsilon 0.99
+episode 1score 5027.0 avg score 4975.5 epsilon 0.98
+episode 2score 5002.0 avg score 4984.3 epsilon 0.97
+episode 3score 4972.0 avg score 4981.2 epsilon 0.96
+episode 4score 5124.0 avg score 5009.8 epsilon 0.95
+episode 5score 5092.0 avg score 5023.5 epsilon 0.94
+episode 6score 4930.0 avg score 5010.1 epsilon 0.93
+episode 7score 4984.0 avg score 5006.9 epsilon 0.92
+episode 8score 4973.0 avg score 5003.1 epsilon 0.91
+episode 9score 4918.0 avg score 4994.6 epsilon 0.90
